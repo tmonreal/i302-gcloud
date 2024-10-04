@@ -13,7 +13,7 @@
 
 <span class="c35 c29 c53"></span>
 
-<span class="c40">✔️</span><span> </span><span>No</span><span> te olvides de </span><span class="c29">detener tu instancia</span><span class="c0"> cuando termines (haciendo clic en el botón de detener en la parte superior de la página que muestra tus instancias). De lo contrario, se quedarán sin créditos y eso será muy triste 😥.</span>
+<span class="c40">✔️</span><span> </span><span>No</span><span> te olvides de </span><span class="c29">detener tu instancia</span><span class="c0"> cuando termines (haciendo clic en el botón de detener en la parte superior de la página que muestra tus instancias). De lo contrario, se quedarán sin créditos... y sería una lástima 😥.</span>
 
 <span class="c0"></span>
 
