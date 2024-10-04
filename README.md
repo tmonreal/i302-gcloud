@@ -27,7 +27,7 @@
 <span class="c19">Obtención de Créditos Académicos para Estudiantes</span>
 -----------------------------------------------------------------------------
 
-1. <span class="c29">Acceder al cupón usando este link:</span><span> </span><span class="c25">[Student Coupon Retrieval Link](https://www.google.com/url?q=https://gcp.secure.force.com/GCPEDU?cid%3D1xuikzo%252FKHJcnSL6gCrm1wqfO92eh3df7zBFNXAqq0f9HIEH44QOvwWacZY5R0U1/&sa=D&source=editors&ust=1718141758323370&usg=AOvVaw02spUwbXZTt5eqNcd9unQn)</span><span class="c45">.</span>
+1. <span class="c29">Acceder al cupón usando este link:</span><span> </span><span class="c25">[Student Coupon Retrieval Link](https://vector.my.salesforce-sites.com/GCPEDU?cid=hkIn%2Bv1P6ZlLYSuKgALcBH0BHdRvHSm7W8Xde9W5%2BOrb03KwL%2B3OIvF3mNM3AWgF/)</span><span class="c45">.</span>
 
 1. <span class="c0">Se va a solicitar nombre y mail de UdeSA.   
   Una vez que hayas verificado el mail, recibirás un mail con el código del cupón, detallando hasta cuándo es válido su uso y canje.</span>
